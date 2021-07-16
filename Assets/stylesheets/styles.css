@@ -20,7 +20,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:32px;
+  font-size:30px;
   font-weight: 500;
 }
 
@@ -29,7 +29,7 @@ h1 a {
 }
 
 p.main_nav {
-  font-size: 30;
+  font-size: 30px;
   font-size: 2.5em !important;
 }
 
