@@ -52,11 +52,14 @@ a.active {
   color:black;
 }
 
+a:not(.name):hover {
+  font-weight: bold;
+}
+
 a:hover {
   color: #222;
   border-color: #222;
   text-decoration: underline;
-  font-weight: bold;
 }
 
 a small {
