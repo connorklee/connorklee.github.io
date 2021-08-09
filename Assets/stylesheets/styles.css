@@ -1,7 +1,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 'Poppins', sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 14px/1.5 'Poppins', sans-serif, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #727272;;
   font-weight:400;
 }
@@ -32,7 +32,6 @@ p.main_nav {
   font-size: 30px;
 }
 
-
 h2 {
   color:#393939;
   font-weight: 500;
@@ -60,17 +59,6 @@ a:hover {
   color: #222;
   border-color: #222;
   text-decoration: underline;
-}
-
-a small {
-  font-size:11px;
-  color:#777;
-  margin-top:-0.3em;
-  display:block;
-}
-
-a:hover small {
-  color:#777;
 }
 
 .wrapper {
@@ -185,7 +173,6 @@ strong {
 
 header ul li + li + li {
   border-right:none;
-  width: 50px;
 }
 
 header ul a strong {
@@ -202,10 +189,6 @@ section {
 
 section.bio {
   color: black;
-}
-
-small {
-  font-size:11px;
 }
 
 hr {
