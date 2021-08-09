@@ -173,6 +173,7 @@ strong {
 
 header ul li + li + li {
   border-right:none;
+  width: 50px;
 }
 
 header ul a strong {
